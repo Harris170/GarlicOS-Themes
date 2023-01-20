@@ -1,8 +1,11 @@
 {
 	"text-alignment": "left",
+	"text-margin": 16,
 	"color-guide": "#FDF7FA",
 	"color-inactive": "#4A4A4A",
 	"color-active": "#B472BA",
 	"color-favorite-inactive": "#4A4A4A",
 	"color-favorite-active": "#EC1461"
+	"main-menu-text-visibility": true,
+	"guide-button-text-visibility": true
 }
