@@ -7,19 +7,19 @@ Step 3: Put "boot_logo.bmp.gz" file in MISC Drive and click "Replace the file in
 Boot up and enjoy!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##Orange UI Preview
+## Orange UI Preview
 
 ![GarlicOS OrangeUI Theme](https://user-images.githubusercontent.com/104685376/229340898-703d2254-6763-4ce7-a426-f47ca7e55d02.png)
 
 
 
-##Grape UI Preview
+## Grape UI Preview
 
 ![GarlicOS GrapeUI Theme](https://user-images.githubusercontent.com/104685376/229341044-a6154c14-827b-41c7-91e8-59d42a225fb3.png)
 
 
 
-##Rice UI Preview
+## Rice UI Preview
 ![GarlicOS RiceUI Theme](https://github.com/Harris170/GarlicOS-Themes/assets/104685376/6a2f4f29-f786-454e-86fc-aaffd03c761b)
 
 
